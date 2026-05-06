@@ -1,0 +1,11 @@
+aws_region             = "us-east-1"
+project_name           = "devops-challenge"
+vpc_cidr               = "10.0.0.0/16"
+public_subnet_cidrs    = ["10.0.1.0/24", "10.0.2.0/24"]
+private_subnet_cidrs   = ["10.0.3.0/24", "10.0.4.0/24"]
+eks_node_instance_type = "t3.medium"
+eks_node_min           = 1
+eks_node_max           = 3
+eks_node_desired       = 2
+jenkins_instance_type  = "t3.small"
+my_ip                  = "102.93.9.68"
