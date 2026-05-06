@@ -1,6 +1,8 @@
 # DevOps Challenge — Production-Grade CI/CD on AWS
 
 ## Architecture Overview
+<img width="1367" height="1600" alt="WhatsApp Image 2026-05-05 at 17 55 58" src="https://github.com/user-attachments/assets/dee6fa41-c808-4d99-bc22-6a27f7b86ed0" />
+
 
 A fully automated CI/CD pipeline deploying a Node.js application to Amazon EKS using Jenkins, Terraform, and Kubernetes.
 ### Components
